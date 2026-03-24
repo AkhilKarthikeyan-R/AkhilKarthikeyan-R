@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkhilKarthikeyan-R
-- 👀 I’m interested in developing softwres and innovating them
+- 👀 I’m interested in developing softwares and innovating them
 - 🌱 I’m currently learning web and app development
 - 💞️ I’m looking to collaborate on app developments
 - 😄 Pronouns: He/him
